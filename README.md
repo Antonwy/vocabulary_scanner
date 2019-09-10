@@ -1,6 +1,6 @@
 # vocabulary_scanner
 
-An app which can scan a vocabulary list and convert it into .csv to import the list to other Vocabulary Apps
+An app which can scan a vocabulary list and convert it into .csv to import the list to other Vocabulary Apps.
 
 ## Getting Started
 
